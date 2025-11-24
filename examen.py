@@ -1,0 +1,3 @@
+inventory = {
+    "products":"rice"
+}
